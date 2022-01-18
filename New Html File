@@ -1,0 +1,14 @@
+<!doctype html >
+<html>
+	<header>
+		<meta charset="utf-8">
+		<title>我和我的小朋友</title>
+	</header>
+	<body>
+		<h1>我们的故事开始于2021年12月4日</h1>
+		<hr></hr>
+		<b>下面将进入我们的快乐时光</b>
+		<a href="new_file.html">启程</a>
+		
+	</body>
+</html>
